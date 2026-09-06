@@ -262,3 +262,6 @@ export * from "./roles";
 
 // ── Payroll Issue Export Sanitizer (#279) ──────────────────────────────────
 export * from "./issues";
+
+// ── Payroll Batch Fingerprint Helper (#273) ────────────────────────────────
+export * from "./fingerprint";
